@@ -10,4 +10,4 @@
 ###### ABOUT
 
 Would you like to own a color with a proven ledger of your ownership?
-Now you can, for free on Color Museum! Just add a color using the single color image api (https://singlecolorimage.com/get/ffce8b/400x100) and claim ownership below it. You can copy and paste the an entry in the museum to get started. The ledger that proves that you own the color is repo's commit history!
+Now you can, for **free** on Color Museum! Just add a color using the single color image api (https://singlecolorimage.com/get/ffce8b/400x100) and claim ownership below it. You can copy and paste the an entry in the museum to get started. The ledger that proves that you own the color is repo's commit history!
