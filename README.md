@@ -11,6 +11,10 @@
 
 *Owned by Kimeiga, Feb 4 2022*
 
+## Elite Turqouise
+![Elite Turqouise](https://singlecolorimage.com/get/133337/400x100)
+
+*Owned by Sean1006, Feb 4 2022*
 
 ---
 
