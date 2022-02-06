@@ -12,7 +12,7 @@
 *Owned by Kimeiga, Feb 4 2022*
 
 ## Elite Turqouise
-![Elite Turqouise](https://singlecolorimage.com/get/133337/400x100)
+![elite turqouise](https://singlecolorimage.com/get/133337/400x100)
 
 *Owned by Sean1006, Feb 4 2022*
 
@@ -20,6 +20,11 @@
 ![red](https://singlecolorimage.com/get/ff0000/400x100)
 
 *Owned by tfukaza, Feb 4 2022*
+
+## Bahkon Blue
+![bahkon blue](https://singlecolorimage.com/get/4242ff/400x100)
+
+*Owned by Sean1006, Feb 5 2022*
 
 
 ---
