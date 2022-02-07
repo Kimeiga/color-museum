@@ -12,7 +12,7 @@
 *Owned by Kimeiga, Feb 4 2022*
 
 ## Elite Turqouise
-![Elite Turqouise](https://singlecolorimage.com/get/133337/400x100)
+![elite turqouise](https://singlecolorimage.com/get/133337/400x100)
 
 *Owned by Sean1006, Feb 4 2022*
 
@@ -25,6 +25,21 @@
 ![yellow](https://singlecolorimage.com/get/A020F0/400x100)
 
 *Owned by kurgerbing, Feb 4 2022*
+
+## Almost Lavender
+![almost lavender](https://singlecolorimage.com/get/7274f0/400x100)
+
+*Owned by krashanoff, Feb 5 2022*
+
+## Bahkon Blue
+![bahkon blue](https://singlecolorimage.com/get/4242ff/400x100)
+
+*Owned by Sean1006, Feb 5 2022*
+
+## Seen Green
+![seen green](http://singlecolorimage.com/get/438000/400x100)
+
+*Owned by jonathanzhou11, Feb 5 2022*
 
 ---
 
