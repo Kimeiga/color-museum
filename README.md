@@ -1,5 +1,3 @@
-# Color Museum
-
 ## Perfect Gold
 ![perfect gold](https://singlecolorimage.com/get/ffce8b/400x100)
 
